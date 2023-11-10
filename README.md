@@ -77,4 +77,4 @@ https://www.figma.com/file/d0SUKZ1Rn00nZIoL3RPEeC/%E7%94%BB%E9%9D%A2%E9%81%B7%E7
 
 ___
 ## ER図
-https://gyazo.com/827394fd4766aa59f7b5a5d9345e2e7f
+https://gyazo.com/1acbb44cc50ad09f5c4233b744c223eb
